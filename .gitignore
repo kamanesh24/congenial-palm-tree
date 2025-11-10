@@ -1,0 +1,11 @@
+node_modules/
+client/node_modules/
+server/database.db
+server/exports/
+.env
+.DS_Store
+*.log
+client/build/
+.vscode/
+.idea/
+
